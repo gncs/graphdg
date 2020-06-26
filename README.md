@@ -1,4 +1,4 @@
-# GraphDG - A Deep Generative Model for Molecular Distance Geometry based on Graph Neural Networks
+# GraphDG
 
 <img src="resources/confs.png" width="40%">
 
@@ -44,6 +44,14 @@ https://arxiv.org/abs/1909.11459
 ## Reference
 
 ```text
-
+@article{Simm2019,
+  title = {A {{Generative Model}} for {{Molecular Distance Geometry}}},
+  author = {Simm, Gregor N. C. and Hern\'andez-Lobato, Jos\'e Miguel},
+  date = {2019-10-03},
+  url = {http://arxiv.org/abs/1909.11459},
+  archivePrefix = {arXiv},
+  eprint = {1909.11459},
+  eprinttype = {arxiv}
+}
 ```
 
