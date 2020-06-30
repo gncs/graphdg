@@ -4,7 +4,7 @@
 
 **A Generative Model for Molecular Distance Geometry**<br>
 Gregor N. C. Simm, José Miguel Hernández-Lobato <br>
-*Proceedings of the 37th International Conference on Machine Learning*, Vienna, Austria, PMLR 108, 2020.<br>
+*Proceedings of the 37th International Conference on Machine Learning*, Vienna, Austria, PMLR 119, 2020.<br>
 https://arxiv.org/abs/1909.11459
 
 ## Installation
