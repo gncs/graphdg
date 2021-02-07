@@ -46,7 +46,7 @@ https://arxiv.org/abs/1909.11459
 ```text
 @inproceedings{Simm2020GraphDG,
   title = 	 {A Generative Model for Molecular Distance Geometry},
-  author = 	 {Simm, Gregor and Hernandez-Lobato, Jose Miguel},
+  author = 	 {Simm, Gregor N. C. and Hern\'andez-Lobato, Jos\'e Miguel},
   booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
   pages = 	 {8949--8958},
   year = 	 {2020},
