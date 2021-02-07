@@ -44,14 +44,19 @@ https://arxiv.org/abs/1909.11459
 ## Reference
 
 ```text
-@article{Simm2019,
-  title = {A {{Generative Model}} for {{Molecular Distance Geometry}}},
-  author = {Simm, Gregor N. C. and Hern\'andez-Lobato, Jos\'e Miguel},
-  date = {2019-10-03},
-  url = {http://arxiv.org/abs/1909.11459},
-  archivePrefix = {arXiv},
-  eprint = {1909.11459},
-  eprinttype = {arxiv}
+@inproceedings{Simm2020GraphDG,
+  title = 	 {A Generative Model for Molecular Distance Geometry},
+  author = 	 {Simm, Gregor and Hernandez-Lobato, Jose Miguel},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {8949--8958},
+  year = 	 {2020},
+  editor = 	 {Hal Daumé III and Aarti Singh},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v119/simm20a/simm20a.pdf},
+  url = 	 {http://proceedings.mlr.press/v119/simm20a.html}
 }
 ```
 
